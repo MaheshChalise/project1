@@ -46,7 +46,9 @@ To start the server, run:
 python app.py
 ```
 created image named project1
+```
 docker build -t  project1
+```
 
 Tagged image file to the respected repository
 ```bash
